@@ -186,3 +186,10 @@
 
 
 })(window.jQuery);
+
+
+
+// Aos Animation 
+    AOS.init({
+  duration: 1000
+});
